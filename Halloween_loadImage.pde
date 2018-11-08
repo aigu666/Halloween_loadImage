@@ -1,4 +1,4 @@
-//Click and Drag your cursor to "carve" the pumpkins
+
 
 PImage img;
 
@@ -10,7 +10,7 @@ void setup() {
 
 void draw() 
 {
-  save("YOURNAME.Halloween.png");
+ 
 }
 
 void mouseDragged()
